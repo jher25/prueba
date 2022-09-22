@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import PantallaPrueba from "./PantallaPrueba/PantallaPrueba";
 import { Routes, Route } from "react-router-dom"; //intalar: npm install react-router-dom
+//ja
 function App() {
   return (
     <div>
